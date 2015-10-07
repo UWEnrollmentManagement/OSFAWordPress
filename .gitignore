@@ -1,0 +1,10 @@
+wp-config.php
+
+wp-content/upgrade
+wp-content/uploads
+wp-content/cache
+wp-content/themes/twenty*
+
+*.sql
+*.DS_Store
+*Thumbs.db
