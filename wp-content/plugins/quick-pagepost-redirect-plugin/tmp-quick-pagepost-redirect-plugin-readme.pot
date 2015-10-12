@@ -174,7 +174,7 @@ msgid "Check the FAQs/Help located in the Plugin menu for more up to date issues
 msgstr ""
 
 #. Found in description paragraph.
-msgid "<strong>Current Version 5.1.4</strong>"
+msgid "<strong>Current Version 5.1.5</strong>"
 msgstr ""
 
 #. Found in description paragraph.
@@ -242,7 +242,15 @@ msgid "Add New Window and No Follow to links where the URL has been rewritten. C
 msgstr ""
 
 #. Found in changelog list item.
-msgid "Add Canonical Redirect filter to fix potential www/non-www redirect match problems."
+msgid "<strong>Feature Addition:</strong> Add Canonical Redirect detection to fix potential www/non-www redirect match problems. Removed from TODO!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>Deletion:</strong> Took out testing code that was accidentally left in the previous version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "<strong>Filter Addition:</strong> Added 'qppr_filter_quickredirect_index' filter to allow changing the the index just before the redirect. See filters-hooks-helper_funcitons.txt in plugin folder for usage."
 msgstr ""
 
 #. Found in changelog list item.
