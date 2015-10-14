@@ -354,6 +354,10 @@ msgid "There are 3 ways to install this plugin:"
 msgstr ""
 
 #. Found in changelog list item.
+msgid "Fixed a URL validation issue when WP's home &amp; site URLs are different. Kudos to Divaldo for pointing it out"
+msgstr ""
+
+#. Found in changelog list item.
 msgid "Fixed URL validation issue"
 msgstr ""
 
