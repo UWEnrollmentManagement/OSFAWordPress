@@ -2,8 +2,8 @@
 Contributors: humanmade, willmot, pauldewouters, joehoyle, mattheu, tcrsavage, cuvelier
 Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, humanmade
 Requires at least: 3.9
-Tested up to: 4.2
-Stable tag: 3.3.1
+Tested up to: 4.4
+Stable tag: 3.3.2
 
 Simple automated backups of your WordPress-powered website.
 
@@ -118,6 +118,10 @@ You can also tweet <a href="http://twitter.com/humanmadeltd">@humanmadeltd</a> o
 
 == Upgrade Notice ==
 
+= 3.3.2 =
+
+* Updates and improvements translations
+
 = 3.3.1 =
 
 * Fixes a bug that would prevent downloading backups since 3.3.0 - please update.
@@ -133,7 +137,7 @@ You can also tweet <a href="http://twitter.com/humanmadeltd">@humanmadeltd</a> o
 = 3.1.3 =
 
   * Fixes backwards compatibility for add-ons and avoids a Fatal Error. Please upgrade straight to this version before upgrading your add-ons.
-  
+
 = 3.0.4 =
 
   * Fixes a few minor bugs. Immediate update is recommended.
