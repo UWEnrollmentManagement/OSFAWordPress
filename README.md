@@ -13,12 +13,13 @@ This repository houses the bulk of the OSFA WordPress site code. Not included in
 
 In the event of an intrusion or other disruption, this site may be recovered from source/backup in approximately thirty seconds.
 
-
 ### Prerequisites
 
 This procedure:
-1. requires a *complete* backup as produced by the BackUpWordPress plugin. A complete backup includes the word "complete" in the zip file name.
-2. that the database name, credentials, and web path are all the same as on the original install.
+
+1. requires a *complete* backup as produced by the [BackUpWordPress plugin](https://wordpress.org/plugins/backupwordpress/). A complete backup includes the word "complete" in the zip file name.
+2. that the database has been created, and the database name and credentials are the same as on the original install.
+3. that the web path is the same as on the original install.
 
 ### Procedure
 
