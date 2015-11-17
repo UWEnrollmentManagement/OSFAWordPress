@@ -3,6 +3,7 @@ wp-config.php
 wp-content/upgrade
 wp-content/uploads
 wp-content/cache
+wp-content/wfcache
 wp-content/themes/twenty*
 
 *.sql
