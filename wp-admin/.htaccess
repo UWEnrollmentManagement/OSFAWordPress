@@ -1,0 +1,3 @@
+authtype shibboleth
+ShibRequireSession On
+Require group u_peggyf_osfa_wordpress
